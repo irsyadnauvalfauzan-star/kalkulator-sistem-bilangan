@@ -1,4 +1,4 @@
-﻿[app]
+[app]
 title = Kalkulator Sistem Bilangan
 package.name = kalkulatorsistembilangan
 package.domain = org.nauval
