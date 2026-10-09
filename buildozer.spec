@@ -17,5 +17,5 @@ warn_on_root = 1
 [android]
 android.minapi = 23
 android.api = 35
-android.arch = arm64-v8a
+android.archs = armeabi-v7a
 android.entrypoint = org.kivy.android.PythonActivity
